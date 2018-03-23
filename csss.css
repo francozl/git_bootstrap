@@ -1,0 +1,15 @@
+.navbar {
+	background-color: black; 
+	height: 106;
+}
+
+.navbar a{
+	color: red !important;
+	font-size: 20px;
+}
+
+.navbar .navbar-brand{
+	margin-left: 100px;
+	font-size: 40px;
+	font-weight: bold;
+}
