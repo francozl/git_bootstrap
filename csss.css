@@ -31,3 +31,15 @@
 .jumbotron p{
 	font-size: 25px;
 }
+
+.rosa{
+	background-color: deeppink;
+}
+
+.azul{
+	background-color: deepskyblue;
+}
+
+.negro{
+	background-color: black;
+}
